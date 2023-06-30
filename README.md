@@ -7,4 +7,4 @@ get the deb package you want, and type sideload package.deb. the magic will be d
 This script uses the GNU GPL3 Liscense.
 https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
 # special thanks
-Special thanks to bfuse on discord (b-fuze on github) for helping me out with the script!
+Special thanks to bfuze on discord (b-fuze on github) for helping me out with the script!
